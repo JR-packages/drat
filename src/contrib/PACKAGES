@@ -315,11 +315,11 @@ NeedsCompilation: no
 Package: jrSpatial
 Version: 0.1.7.6
 Depends: R (>= 3.4.0)
-Imports: raster, sf, dplyr, tibble, tidyr, tmap, ggplot2, leaflet
+Imports: dplyr, ggplot2, leaflet, raster, sf, tibble, tidyr, tmap
 Suggests: cartogram, cartography, DT, ggspatial, knitr, lintr,
         maptools, testthat, tufte, webshot
 License: GPL-2
-MD5sum: 101048bc82421ad2951cde1aea2160fc
+MD5sum: e5a613d04e56eaa992daf6d4f6e1a507
 NeedsCompilation: no
 
 Package: jRsql
