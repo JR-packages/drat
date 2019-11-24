@@ -124,13 +124,13 @@ MD5sum: 53bc6fec53b1a8bbe118040998c61ab2
 NeedsCompilation: no
 
 Package: jrGgplot2
-Version: 0.1.4
+Version: 0.1.5
 Depends: R (>= 3.3.0)
-Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData, ggthemes,
-        hrbrthemes, ggridges, gridExtra, ggrepel, ggthemes, plotly
-Suggests: knitr, tufte, testthat, lintr, DT
+Imports: ggplot2, ggplot2movies, ggrepel, ggridges, ggthemes,
+        gridExtra, hexbin, hrbrthemes, plotly, quantreg
+Suggests: DT, formatR, knitr, lintr, tufte
 License: GPL-2 | GPL-3
-MD5sum: 6d60698fa05fca3954db8ba596026d8a
+MD5sum: 3b01c93c502e3983b19cb9e886eeefa8
 NeedsCompilation: no
 
 Package: jrIntroBio
