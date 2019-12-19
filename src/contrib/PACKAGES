@@ -199,10 +199,10 @@ NeedsCompilation: no
 Package: jrOOP
 Version: 0.1.0
 Depends: R (>= 3.1)
-Imports: pryr, hexbin, quantreg, gridExtra, ggplot2
-Suggests: knitr, fortunes, tufte, rmarkdown
+Imports: ggplot2, gridExtra, hexbin, pryr, quantreg
+Suggests: fortunes, knitr, rmarkdown, tufte
 License: GPL-3 | GPL-2
-MD5sum: 5c346d1bf22e5b59962c5e3eaa244029
+MD5sum: e7f4cd490b24bc8781fb62c1707991ac
 NeedsCompilation: no
 
 Package: jroreillyregression
