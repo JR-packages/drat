@@ -402,13 +402,13 @@ MD5sum: ddff7091916f0229406c3559c1b4b8b2
 NeedsCompilation: no
 
 Package: jrWhyR
-Version: 0.1.7
+Version: 0.1.71
 Depends: R (>= 3.5.0)
 Imports: lubridate, tibble
-Suggests: DT, ggplot2movies, kableExtra, knitr, lintr, plotly, plumber,
-        shiny, testthat, tidyverse
+Suggests: DT, ggplot2movies, hrbrthemes, kableExtra, knitr, lintr,
+        plotly, plumber, shiny, testthat, tidyverse
 License: GPL-3
-MD5sum: 21dc378c00d7c56e45aac1e8937e16e8
+MD5sum: 53e197d48811293a158a1002b4c18ed1
 NeedsCompilation: no
 
 Package: jrYr
