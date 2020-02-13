@@ -365,12 +365,13 @@ MD5sum: 7a370fe5593b9021266f33ac2cccc883
 NeedsCompilation: no
 
 Package: jrSql
-Version: 0.1.3.9003
+Version: 0.1.3.9004
 Depends: R (>= 3.4.0)
-Imports: DBI, dplyr (>= 0.7.0), odbc, RPostgreSQL
+Imports: DBI, dbplyr, dplyr (>= 0.7.0), ggplot2movies, odbc,
+        RPostgreSQL
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: 2b8f50224dac5633288fa16bb445c001
+MD5sum: 25ee8fa0c15ad08844eb9b619c2d694e
 NeedsCompilation: no
 
 Package: jrTesting
