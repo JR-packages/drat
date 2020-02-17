@@ -151,7 +151,7 @@ Version: 0.0.3
 Depends: R (>= 3.2.0)
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: 002f5ad4d5720dc018660b7c833a8051
+MD5sum: a061aa1c9628bb75554299efaae77cb7
 NeedsCompilation: no
 
 Package: jrIntroBio
