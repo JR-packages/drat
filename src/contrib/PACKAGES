@@ -173,6 +173,13 @@ License: GPL-3
 MD5sum: cbee6d3913e453d107376203021678f7
 NeedsCompilation: no
 
+Package: jrGitForUs
+Version: 0.0.2
+Depends: R (>= 3.2.0)
+License: GPL-3
+MD5sum: 5af0c1d1fd2d8c1c5b77277d5d2e87fc
+NeedsCompilation: no
+
 Package: jrIntroBio
 Version: 0.2.2
 Depends: R (>= 3.2.0)
