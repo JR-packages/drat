@@ -241,7 +241,7 @@ Imports: bookdown, cli, config, crayon, digest, dplyr, fs, gert, glue,
         spelling, stringr, tibble, tufte (>= 0.5), zip
 Suggests: drat, formatR, ggplot2, rmarkdown (>= 1.12), testthat
 License: GPL-3
-MD5sum: e6a03504e103dc7313f2d4c5b8b27571
+MD5sum: f0168996b65956fa350607fca0acd81a
 NeedsCompilation: no
 
 Package: jrOOP
