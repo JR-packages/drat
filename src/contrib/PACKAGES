@@ -21,6 +21,14 @@ License: GPL-2
 MD5sum: 74f0e55bd47305e64ff1f39ed615882d
 NeedsCompilation: no
 
+Package: getrecipes
+Version: 0.0.3
+Imports: dplyr, DT, glue, httr, jsonlite, purrr, RCurl, shiny, stringr,
+        tibble
+License: GPL-2 | GPL-3
+MD5sum: 8182a24b4e3801b8f002e20f4bb6c4df
+NeedsCompilation: no
+
 Package: headR
 Version: 0.1.1
 Depends: R (>= 3.3.0)
