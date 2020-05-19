@@ -460,7 +460,7 @@ Version: 0.0.2
 Imports: dplyr, DT, glue, httr, jsonlite, purrr, RCurl, shiny, stringr,
         tibble
 License: GPL-2 | GPL-3
-MD5sum: f2badcc964a3b46323328dcb02c6549d
+MD5sum: c045a9625a6a2e057395307a25994d77
 NeedsCompilation: no
 
 Package: stopwatcheR
