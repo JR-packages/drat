@@ -333,6 +333,14 @@ License: GPL-3
 MD5sum: 4bc65134b37df7e1c485f31ec6cea8c0
 NeedsCompilation: no
 
+Package: jrRmd
+Version: 0.3.1
+Depends: R (>= 3.2.0)
+Imports: dplyr, DT, ggplot2, kableExtra, knitr, rmarkdown
+License: GPL-3
+MD5sum: 7432a28ba0cfb4d225fa0bae6ec4c90c
+NeedsCompilation: no
+
 Package: jrRssprogramming
 Version: 0.0.1
 Depends: R (>= 3.2.0)
