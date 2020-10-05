@@ -653,6 +653,17 @@ License: GPL-2
 MD5sum: cfbda5238b62b1692329a5f0887f2d04
 NeedsCompilation: no
 
+Package: jrTidyverse
+Version: 0.2.0
+Depends: R (>= 3.5.0)
+Imports: base64enc, dplyr (>= 1.0.0), hrbrthemes, htmltools, lubridate
+        (>= 1.7.2), readr, tibble (>= 1.4.2)
+Suggests: ggplot2, ggplot2movies, gridExtra, gutenbergr, knitr, lintr,
+        plotly, rmarkdown, skimr, testthat, tidyr, tidyverse, wordcloud
+License: GPL-2
+MD5sum: 228ae42c9726d22f49505994878e3423
+NeedsCompilation: no
+
 Package: jrTidyverse2
 Version: 0.1.407
 Depends: R (>= 3.4.0)
