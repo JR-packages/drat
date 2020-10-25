@@ -913,6 +913,14 @@ License: GPL-3
 MD5sum: 7608c6129971da191c0e12688d4b6fe1
 NeedsCompilation: no
 
+Package: stanhl
+Version: 1.0.1
+Depends: R (>= 3.5.0)
+Imports: knitr
+License: GPL-3
+MD5sum: 14850f907d04b41784539f999a45f467
+NeedsCompilation: no
+
 Package: stopwatcheR
 Version: 0.1.0
 Imports: htmltools
