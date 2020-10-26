@@ -921,6 +921,15 @@ License: GPL-3
 MD5sum: 14850f907d04b41784539f999a45f467
 NeedsCompilation: no
 
+Package: stanhl
+Version: 1.0.2
+Depends: R (>= 3.5.0)
+Imports: knitr
+Suggests: rmarkdown, rstan
+License: GPL-3
+MD5sum: 526b7da0c736dee61c14a163f83e3807
+NeedsCompilation: no
+
 Package: stopwatcheR
 Version: 0.1.0
 Imports: htmltools
