@@ -140,6 +140,13 @@ License: GPL-3
 MD5sum: 2111c56f9869e99560e046d986fb1b26
 NeedsCompilation: no
 
+Package: jrDocker
+Version: 0.1.1
+Suggests: lintr, testthat
+License: GPL-3
+MD5sum: c91948457f858749bc4ef05f6db6b5b9
+NeedsCompilation: no
+
 Package: jrEfficient
 Version: 0.1.8
 Depends: R (>= 3.3.0)
