@@ -933,6 +933,16 @@ License: GPL-2 | GPL-3
 MD5sum: 5f2f1e6938f910be30dd9ba7373f22ff
 NeedsCompilation: no
 
+Package: jrPresentation
+Version: 0.2.3
+Imports: clisymbols, config, countdown, crayon, digest, fs, glue, knitr
+        (>= 1.20), lintr, reticulate, rmarkdown (>= 1.10), rsconnect
+        (>= 0.8.11), stringr, xaringan (>= 0.8)
+Suggests: jrNotes, testthat, yaml
+License: GPL-2 | GPL-3
+MD5sum: c4e8e3e5cefabf22b8fda538e5066ce3
+NeedsCompilation: no
+
 Package: jrProgBio
 Version: 0.0.4
 Depends: R (>= 3.5.0)
