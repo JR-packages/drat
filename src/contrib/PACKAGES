@@ -284,7 +284,7 @@ Version: 0.1.0
 Depends: R (>= 3.5.0)
 Imports: cli, drat, inteRgrate, remotes, yaml
 License: GPL-3
-MD5sum: e3f358ee337db9243abca2ffb208c3ca
+MD5sum: 9a4b5bcc640c484f2bd0c162203f0a63
 NeedsCompilation: no
 
 Package: jrOOP
