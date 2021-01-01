@@ -554,7 +554,7 @@ Imports: baguette, broom, caret, dials, discrim, dplyr, e1071, ggplot2,
         yardstick
 Suggests: knitr, lintr, rmarkdown, tufte
 License: GPL-3
-MD5sum: c5c2415c718e4517a9512b4356348bcd
+MD5sum: 9c604897630d1c22c0d1f5c85fc8a5c1
 NeedsCompilation: no
 
 Package: jrTidyverse
