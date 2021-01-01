@@ -441,7 +441,7 @@ Depends: R (>= 3.5.0)
 Suggests: dplyr, formatR, ggplot2, ggplot2movies, jrProgramming, knitr,
         lintr, rmarkdown, stringi, stringr, testthat, tufte
 License: GPL-3
-MD5sum: 5fb5a9165c05b28f86f4aec5363ad528
+MD5sum: 55b22a153aa1f2e6013d00deb2c9cb1e
 NeedsCompilation: no
 
 Package: jrProgramming
