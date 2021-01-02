@@ -605,7 +605,7 @@ Imports: lubridate, tibble
 Suggests: DT, ggplot2movies, hrbrthemes, kableExtra, knitr, lintr,
         plotly, plumber, shiny, testthat, tidyverse
 License: GPL-3
-MD5sum: 831cf40c3054ec6f3a8609b7ee08ff70
+MD5sum: 908632c0af87277ab5adb2d0da8f8496
 NeedsCompilation: no
 
 Package: jrYr
