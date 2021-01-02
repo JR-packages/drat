@@ -188,7 +188,7 @@ Depends: R (>= 3.5.0)
 Imports: dplyr, ggplot2, tidyverse, usethis
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: 58ca59acd797f295a5ec2bc854e40076
+MD5sum: c2d52b65e52266e804f8dc11b6e8ccdf
 NeedsCompilation: no
 
 Package: jrGitForUs
