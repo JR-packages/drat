@@ -638,7 +638,7 @@ Depends: R (>= 3.5.0)
 Imports: knitr
 Suggests: rmarkdown, rstan
 License: GPL-3
-MD5sum: 526b7da0c736dee61c14a163f83e3807
+MD5sum: b8a7c5e1262bebb829dc952a59ad141c
 NeedsCompilation: no
 
 Package: stopwatcheR
