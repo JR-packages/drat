@@ -546,7 +546,7 @@ Imports: DBI, dbplyr, dplyr (>= 0.7.0), ggplot2movies, leaflet,
         nycflights13, odbc, RPostgreSQL
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: 5f59731b429c92e8ce6e829635f5c2a9
+MD5sum: 6e42c35091fec6b10a151f632db5e028
 NeedsCompilation: no
 
 Package: jrTesting
