@@ -378,7 +378,7 @@ Imports: bookdown, cli, digest, dplyr, formatR, fs, ggplot2, glue,
         tufte (>= 0.5), yaml, zip
 Suggests: covr, drat, namer (>= 0.1.4), praise, rstudioapi, testthat
 License: GPL-3
-MD5sum: 9a2ee5d9c26331974b6c5e4e60edadd7
+MD5sum: 108afdf4ce241ec0c4bbf94a94399773
 NeedsCompilation: no
 
 Package: jrNotesCI
