@@ -325,6 +325,17 @@ License: GPL-3 | GPL-2
 MD5sum: 5a31b8c7fd9bf3a6fcd1ff25ddce98b1
 NeedsCompilation: no
 
+Package: jrModelling
+Version: 0.2.2
+Depends: R (>= 3.5.0)
+Imports: broom, coin, ggplot2, gridExtra, mvtnorm, rmarkdown, shiny,
+        tidyverse, titanic
+Suggests: cowsay, dplyr, DT, ggrepel, knitr, lintr, survival, testthat,
+        tufte
+License: GPL-3 | GPL-2
+MD5sum: 0be224f62704ffd02c952cb852c63879
+NeedsCompilation: no
+
 Package: jrModellingBio
 Version: 0.0.3
 Depends: R (>= 3.5.0)
