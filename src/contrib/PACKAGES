@@ -803,7 +803,7 @@ Imports: clisymbols, config, countdown, crayon, digest, fs, glue,
         1.10), rsconnect (>= 0.8.11), stringr, xaringan (>= 0.8), yaml
 Suggests: testthat
 License: GPL-2 | GPL-3
-MD5sum: d7b3fa952571c1ecf2b5ecd7b9703bdf
+MD5sum: e53de1760a92b4e8ff123c254e1789ba
 NeedsCompilation: no
 
 Package: jrProgBio
