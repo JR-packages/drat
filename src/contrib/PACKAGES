@@ -117,7 +117,7 @@ Imports: gapminder, ggplot2, janitor, lintr, lubridate, palmerpenguins,
         tidyr, usethis
 Suggests: knitr, testthat, tufte
 License: GPL-3 | GPL-2
-MD5sum: a5f35e3e7772649ae6f65b3172e86bba
+MD5sum: 437f53a7675119d20627d3108fbd7e77
 NeedsCompilation: no
 
 Package: jrBig
